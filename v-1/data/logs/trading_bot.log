@@ -1,0 +1,39 @@
+2026-05-10 22:25:45,365 [INFO] Cached EURUSD: digits=5, point=1e-05
+2026-05-10 22:25:45,366 [INFO] Cached GBPUSD: digits=5, point=1e-05
+2026-05-10 22:25:45,366 [INFO] Cached AUDUSD: digits=5, point=1e-05
+2026-05-10 22:25:45,367 [INFO] Cached NZDUSD: digits=5, point=1e-05
+2026-05-10 22:25:45,367 [INFO] Cached USDJPY: digits=3, point=0.001
+2026-05-10 22:25:45,367 [INFO] Cached USDCAD: digits=5, point=1e-05
+2026-05-10 22:25:45,370 [INFO] Cached USDCHF: digits=5, point=1e-05
+2026-05-10 22:25:45,371 [INFO] Cached EURJPY: digits=3, point=0.001
+2026-05-10 22:25:45,372 [INFO] Cached GBPJPY: digits=3, point=0.001
+2026-05-10 22:25:45,404 [INFO] Cached XAUUSD: digits=2, point=0.01
+2026-05-10 22:25:45,404 [INFO] Cached XAGUSD: digits=3, point=0.001
+2026-05-10 22:25:45,405 [INFO] Cached DXY_PROXY: digits=3, point=0.001
+2026-05-10 22:25:45,405 [INFO] MT5 connected: Demo Account, Balance: $939.10
+2026-05-11 12:13:19,175 [INFO] Cached EURUSD: digits=5, point=1e-05
+2026-05-11 12:13:19,206 [INFO] Cached GBPUSD: digits=5, point=1e-05
+2026-05-11 12:13:19,206 [INFO] Cached AUDUSD: digits=5, point=1e-05
+2026-05-11 12:13:19,206 [INFO] Cached NZDUSD: digits=5, point=1e-05
+2026-05-11 12:13:19,347 [INFO] Cached USDJPY: digits=3, point=0.001
+2026-05-11 12:13:19,378 [INFO] Cached USDCAD: digits=5, point=1e-05
+2026-05-11 12:13:19,378 [INFO] Cached USDCHF: digits=5, point=1e-05
+2026-05-11 12:13:19,378 [INFO] Cached EURJPY: digits=3, point=0.001
+2026-05-11 12:13:19,393 [INFO] Cached GBPJPY: digits=3, point=0.001
+2026-05-11 12:13:19,393 [INFO] Cached XAUUSD: digits=2, point=0.01
+2026-05-11 12:13:19,393 [INFO] Cached XAGUSD: digits=3, point=0.001
+2026-05-11 12:13:19,393 [INFO] Cached DXY_PROXY: digits=3, point=0.001
+2026-05-11 12:13:19,409 [INFO] MT5 connected: Demo Account, Balance: $939.10
+2026-05-11 18:36:38,280 [INFO] Cached EURUSD: digits=5, point=1e-05
+2026-05-11 18:36:38,312 [INFO] Cached GBPUSD: digits=5, point=1e-05
+2026-05-11 18:36:38,312 [INFO] Cached AUDUSD: digits=5, point=1e-05
+2026-05-11 18:36:38,312 [INFO] Cached NZDUSD: digits=5, point=1e-05
+2026-05-11 18:36:38,312 [INFO] Cached USDJPY: digits=3, point=0.001
+2026-05-11 18:36:38,312 [INFO] Cached USDCAD: digits=5, point=1e-05
+2026-05-11 18:36:38,312 [INFO] Cached USDCHF: digits=5, point=1e-05
+2026-05-11 18:36:38,312 [INFO] Cached EURJPY: digits=3, point=0.001
+2026-05-11 18:36:38,312 [INFO] Cached GBPJPY: digits=3, point=0.001
+2026-05-11 18:36:38,312 [INFO] Cached XAUUSD: digits=2, point=0.01
+2026-05-11 18:36:38,327 [INFO] Cached XAGUSD: digits=3, point=0.001
+2026-05-11 18:36:38,327 [INFO] Cached DXY_PROXY: digits=3, point=0.001
+2026-05-11 18:36:38,343 [INFO] MT5 connected: Demo Account, Balance: $941.42
