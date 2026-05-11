@@ -1,0 +1,15 @@
+# Sample Config: XAUUSD M15
+symbol: "XAUUSD"
+timeframe: "M15"
+spread_pips: 0.35
+slippage_pips: 1.0
+commission_per_lot: 3.5
+leverage: 100
+default_risk_tier: "normal"
+
+optimization:
+  lookback_bars: [100, 200]
+
+walk_forward:
+  train_years: 2
+  test_months: 6

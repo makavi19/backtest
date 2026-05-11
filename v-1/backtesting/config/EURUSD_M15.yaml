@@ -1,0 +1,18 @@
+# Sample Config: EURUSD M15
+# Usage: future configurations for pairs
+symbol: "EURUSD"
+timeframe: "M15"
+spread_pips: 0.1
+slippage_pips: 0.5
+commission_per_lot: 3.5
+leverage: 100
+default_risk_tier: "tight"
+
+# Optimization grids
+optimization:
+  lookback_bars: [50, 100, 150]
+
+# Walk-forward settings
+walk_forward:
+  train_years: 2
+  test_months: 6
