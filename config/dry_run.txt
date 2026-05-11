@@ -1,0 +1,5 @@
+# DRY RUN MODE
+# Set to TRUE to simulate trades without sending real orders
+# Set to FALSE for live trading
+
+DRY_RUN = TRUE

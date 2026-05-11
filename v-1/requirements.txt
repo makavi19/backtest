@@ -4,7 +4,7 @@ numpy>=1.24.0
 pytz>=2023.3
 
 # MT5 Integration
-MetaTrader5>=5.0.45
+#MetaTrader5>=5.0.45
 
 # LangGraph (if available, else we'll use sequential)
 langgraph>=0.0.8; python_version >= "3.9"
@@ -17,7 +17,7 @@ Pillow>=10.0.0
 pyyaml>=6.0
 
 # Database
-sqlite3-utils>=3.0.0
+sqlite-utils>=3.0.0
 
 # Optional: News feed
 requests>=2.31.0
@@ -25,3 +25,9 @@ beautifulsoup4>=4.12.0
 
 # Development
 pytest>=7.0.0
+# Institutional Backtesting Framework
+backtrader>=1.9.78.123
+quantstats>=0.0.62
+empyrical-reloaded>=0.5.8
+seaborn>=0.12.2
+tqdm>=4.65.0

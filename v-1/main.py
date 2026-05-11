@@ -524,6 +524,27 @@ class TradingBot:
 
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser(description="Eleven Pairs Trading Bot")
+    parser.add_argument('--mode', type=str, choices=['live', 'backtest'], default='live',
+                        help="Run mode: 'live' (default) or 'backtest'")
+    parser.add_argument('--backtest', action='store_true', help="Shortcut for --mode backtest")
+
+    # Allow passing unknown args to the backtest runner
+    args, unknown = parser.parse_known_args()
+
+    if args.mode == 'backtest' or args.backtest:
+        print("=" * 60)
+        print("REDIRECTING TO BACKTESTING FRAMEWORK")
+        print("=" * 60)
+        import subprocess
+        import sys
+
+        # Build the command to run the backtest runner
+        cmd = [sys.executable, "backtesting/backtest_runner.py"] + unknown
+        subprocess.run(cmd)
+        return
+
     bot = TradingBot()
     try:
         if bot.boot():
